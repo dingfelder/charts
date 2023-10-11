@@ -1,12 +1,12 @@
 apiVersion: v2
-appVersion: "2.2.0.200"
+appVersion: "1.0.18"
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org
     version: 14.0.1
 description: M3U Proxy for Plex DVR and Emby Live TV.
 home: https://github.com/threadfin/threadfin
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/xteve.png
+icon: https://github.com/Threadfin/Threadfin/raw/main/html/img/threadfin.png
 keywords:
   - threadfin
   - xteve
