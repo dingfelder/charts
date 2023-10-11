@@ -1,6 +1,6 @@
 image:
-  repository: tccr.io/truecharts/threadfin
-  tag: v2.2.0.200@sha256:06669087209cee486ce99ca05d8bfb18928d12fb160338424e533cea71cd3587
+  repository: hub.docker.com/fyb3roptik/threadfin
+  tag: v1.0.18@sha256:462a4ba7bab1501c4f3e40a03835ac6de5f8d75b2b51edcff555f414fe8bee00
   pullPolicy: IfNotPresent
 service:
   main:
