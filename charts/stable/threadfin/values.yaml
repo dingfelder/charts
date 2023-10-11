@@ -1,6 +1,6 @@
 image:
   repository: hub.docker.com/r/fyb3roptik/threadfin
-  tag: 1.0.18-nvidia@sha256:7f106eed667af5a0514b1f524ea391e4ff499b597ea09ab36fd046cc074893e6
+#  tag: 1.0.18-nvidia@sha256:7f106eed667af5a0514b1f524ea391e4ff499b597ea09ab36fd046cc074893e6
   pullPolicy: IfNotPresent
 service:
   main:
