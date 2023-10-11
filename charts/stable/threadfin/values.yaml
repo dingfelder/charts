@@ -1,5 +1,6 @@
 image:
-  repository: hub.docker.com/r/fyb3roptik/threadfin
+#  repository: registry.hub.docker.com/r/fyb3roptik/threadfin
+  repository: fyb3roptik/threadfin
   tag: 1.0.18@sha256:462a4ba7bab1501c4f3e40a03835ac6de5f8d75b2b51edcff555f414fe8bee00
   pullPolicy: IfNotPresent
 service:
