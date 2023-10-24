@@ -35,6 +35,21 @@ questions:
                                           type: string
                                           default: "/threadfin/config"
                                           required: true
+
+#                                          ENV THREADFIN_BIN=/home/threadfin/bin
+#                                          ENV THREADFIN_CONF=/home/threadfin/conf
+#                                          ENV THREADFIN_HOME=/home/threadfin
+#                                          ENV THREADFIN_TEMP=/tmp/threadfin
+#                                          ENV THREADFIN_CACHE=/home/threadfin/cache
+#                                          ENV THREADFIN_UID=31337
+#                                          ENV THREADFIN_GID=31337
+#                                          ENV THREADFIN_USER=threadfin
+#                                          ENV THREADFIN_BRANCH=main
+#                                          ENV THREADFIN_DEBUG=0
+#                                          ENV THREADFIN_PORT=34400
+#                                          ENV THREADFIN_LOG=/var/log/threadfin.log
+#                                          ENV PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/threadfin/bin
+#                                          WORKDIR /home/threadfin
 # Include{containerBasic}
 # Include{containerAdvanced}
 # Include{containerConfig}
