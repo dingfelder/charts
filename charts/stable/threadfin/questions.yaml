@@ -33,7 +33,7 @@ questions:
                                         label: "Threadfin Config Path"
                                         schema:
                                           type: string
-                                          default: "/threadfin/config"
+                                          default: "/threadfin/conf"
                                           required: true
 
 #                                          ENV THREADFIN_BIN=/home/threadfin/bin

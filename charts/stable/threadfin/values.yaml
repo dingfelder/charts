@@ -1,7 +1,7 @@
 image:
 #  repository: registry.hub.docker.com/r/fyb3roptik/threadfin
   repository: fyb3roptik/threadfin
-  tag: 1.0.19@sha256:826ff300967d3c39b46d65593394246a0c671d5159090ad31d9123535ee0599d
+  tag: 1.0.20@sha256:74e15eb794fe705a73e64bbc4abf4c77da0b7c16d8d65cfa07e096dc95f56768
   pullPolicy: IfNotPresent
 service:
   main:
@@ -18,7 +18,7 @@ workload:
           env:
             THREADFIN_HOME: "/threadfin"
             THREADFIN_BIN:  "/threadfin/bin"
-            THREADFIN_CONF: "/threadfin/config"
+            THREADFIN_CONF: "/threadfin/conf"
 #            THREADFIN_BRANCH: "main"
 #            THREADFIN_DEBUG: "0"
 #            THREADFIN_PORT: "34400"
