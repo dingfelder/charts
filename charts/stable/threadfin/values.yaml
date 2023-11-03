@@ -16,9 +16,9 @@ workload:
       containers:
         main:
           env:
-            THREADFIN_HOME: "/threadfin"
-            THREADFIN_BIN:  "/threadfin/bin"
-            THREADFIN_CONF: "/threadfin/conf"
+            THREADFIN_HOME: "/home/threadfin"
+            THREADFIN_BIN:  "/home/threadfin/bin"
+            THREADFIN_CONF: "/home/threadfin/conf"
 #            THREADFIN_BRANCH: "main"
 #            THREADFIN_DEBUG: "0"
 #            THREADFIN_PORT: "34400"
